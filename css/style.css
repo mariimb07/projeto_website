@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(211, 180, 230);
+    text-align: center;
+}
+.card{
+    width: 400px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px purple;
+}
